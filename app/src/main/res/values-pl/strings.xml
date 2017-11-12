@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Biały C-HR</item>
+        <item>Biały GT-86</item>
+        <item>Niebieska Supra</item>
+        <item>Biały Land-Cruiser</item>
+        <item>Biały F1</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>100000</item>
+        <item>130000</item>
+        <item>200000</item>
+        <item>250000</item>
+        <item>500000</item>
+    </string-array>
+
+    <string name="buy">Kup wszystkie</string>
+
+    <string name="zero">Nie zaznaczono żadnego auta</string>
+
+    <plurals name="numberOfSelectedItems">
+        <item quantity="one">Zaznaczono 1 samochód</item>
+        <item quantity="two">Zaznaczono 2 samochody</item>
+        <item quantity="few">Zaznaczono %d samochody</item>
+        <item quantity="many">Zaznaczono %d samochodów</item>
+        <item quantity="other">Zaznaczono %d samochodów</item>
+    </plurals>
+
+</resources>

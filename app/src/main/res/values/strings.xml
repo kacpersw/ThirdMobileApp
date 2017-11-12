@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ThirdApp</string>
+
+    <string-array name="names">
+        <item>White C-HR</item>
+        <item>White GT-86</item>
+        <item>Blue Supra</item>
+        <item>White Land-Cruiser</item>
+        <item>White F1</item>
+    </string-array>
+
+    <string name="buy">Buy all</string>
+
+    <string-array name="prices">
+        <item>100000</item>
+        <item>130000</item>
+        <item>200000</item>
+        <item>250000</item>
+        <item>500000</item>
+    </string-array>
+
+    <string name="zero">You do not have any selected item now</string>
+
+    <plurals name="numberOfSelectedItems">
+        <item quantity="one">You have selected 1 car</item>
+        <item quantity="other">You have selected %d cars</item>
+    </plurals>
+
+</resources>
